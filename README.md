@@ -5,9 +5,9 @@ Building practical Android applications and learning through real-world projects
 
 I'm a B.Tech Computer Engineering student based in Surat, India, focused on Android development. I enjoy turning ideas into working applications, solving bugs, and improving my understanding of mobile software engineering.
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🎮 Wrong Tap
+### Wrong Tap
 
 A color-recognition game built for Android, featuring multiple game modes and fast-paced challenges.
 
@@ -15,28 +15,28 @@ A color-recognition game built for Android, featuring multiple game modes and fa
 * **Status:** Published on Google Play
 * [Download on Google Play](https://play.google.com/store/apps/details?id=com.atoinfinitylabs.wrongtap)
 
-### 🖼️ Shrink Pixel
+### Shrink Pixel
 
 An Android image-compression project focused on making image files smaller and easier to manage.
 
 * **Platform:** Android
 * **Focus:** Image compression and mobile usability
 
-### 💬 Daily Quotes
+### Daily Quotes
 
 A motivational quotes application with features such as saving and sharing quotes, reminders, and theme customization.
 
 * **Platform:** Android
 * **Focus:** User experience and everyday utility
 
-### 💰 ExpenseTracker
+### ExpenseTracker
 
 A personal finance application in development.
 
 * **Platform:** Android
 * **Focus:** Expense tracking, income management, and local data storage
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 * Kotlin
 * Android Studio
@@ -45,14 +45,14 @@ A personal finance application in development.
 * Git and GitHub
 * Debugging and testing
 
-## 🌱 Currently Learning
+## Currently Learning
 
 * Kotlin fundamentals and object-oriented programming
 * Jetpack Compose UI and state management
 * Android architecture and app persistence
 * Writing cleaner, more maintainable code
 
-## 🎯 Career Goals
+## Career Goals
 
 I'm looking for Android Developer Intern and Junior Android Developer opportunities where I can contribute to real products, learn from experienced engineers, and grow as a software developer.
 
